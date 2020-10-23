@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Brodovoi dev mern",
+    "mongoUri": "mongodb+srv://zzzfisherzzz:Parmanent12345@cluster0.ar5eq.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
